@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @jinaqiqi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jinaqiqi/jinaqiqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m jin
+- 👀 I’m interested in ridemotorcycle
+- 🌱 I’m currently learning Goland
+- 📫 How to reach me m15711388274@163.com
